@@ -1,12 +1,9 @@
 <h2>Resumo e Abstract</h2>
 
-<p><i><b>Resumo. </b>Resumo. Este artigo tem como objetivo apresentar, de ma-
-neira concisa, o processo de execuc¸ ˜ao do componente educacional do
-nosso projeto final na disciplina de Computac¸ ˜ao, Sociedade e Sustenta-
-bilidade. Esse componente foi direcionado `as crianc¸as que frequentam
-a biblioteca dos Tabaiares e consistiu em demonstrar, por meio de ati-
-vidades l´udicas, diversas formas de se divertir e aprender coisas novas
-de maneira saud´avel e interativa.</i></p>
+<p><i><b>Resumo. </b>Resumo. Este artigo tem como objetivo apresentar, de maneira concisa, o processo de execução do componente educacional do
+nosso projeto final na disciplina de Computação, Sociedade e Sustentabilidade. Esse componente foi direcionado às crianças que frequentam
+a biblioteca dos Tabaiares e consistiu em demonstrar, por meio de atividades lúdicas, diversas formas de se divertir e aprender coisas novas
+de maneira saudável e interativa.</i></p>
 
 <p><i><b>Abstract. </b>Abstract. This article aims to concisely present the process
 of implementing the educational component of our final project in the
